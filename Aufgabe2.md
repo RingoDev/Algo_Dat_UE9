@@ -1,9 +1,11 @@
+# Aufgabe 2
+
 ## Reihung der Algorithmen vom Schnellsten zum Langsamsten
 
-* Quick Sort
-* Shell Sort
-* Insertion Sort
-* Selection Sort
+1. Quick Sort
+1. Shell Sort
+1. Insertion Sort
+1 Selection Sort
 
 ## Vergleich mit der Werte mit Laufzeitkomplexität
 
@@ -12,17 +14,17 @@ Je kleiner n desto höher sind die Abweichungen.
 
 ## Reihung der Algorithmen von wenigsten Zuweisungen zu meisten Zuweisungen
 
-* Quick Sort
-* Shell Sort
-* Selection Sort
-* Insertion Sort
+1. Quick Sort
+1. Shell Sort
+1. Selection Sort
+1. Insertion Sort
 
 ## Reihung der Algorithmen von wenigsten Vergleichen zu meisten Vergleichen
 
-* Quick Sort
-* Shell Sort
-* Insertion Sort
-* Selection Sort
+1. Quick Sort
+1. Shell Sort
+1. Insertion Sort
+1. Selection Sort
 
 ## Einfluss der Zuweisungen auf Laufzeit
 
