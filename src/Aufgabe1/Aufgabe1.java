@@ -6,7 +6,7 @@ import java.io.*;
 class Tree {
 
 
-    class Node {
+    static class Node {
         int val;
         Node left;
         Node right;
