@@ -2,8 +2,8 @@
 
 ## Exercise 1
 
-Implementation of RR-Rotations, check for AVL-Trees and check for perfect Trees.
+Implementation of RR-Rotations, checks for AVL-Trees and perfect Trees.
 
 ## Exercise 2
 
-Comparison of different SOrting Algorithms.
+Comparison of different Sorting Algorithms.
